@@ -36,5 +36,7 @@ aceberg/watchyourlan:v2
 xiaojusurvey/xiaoju-survey:1.0.4
 mongo:4
 mcr.microsoft.com/mssql/server:2022-latest
+wy580477/musicn-container
+linuxserver/wireguard
 
 
