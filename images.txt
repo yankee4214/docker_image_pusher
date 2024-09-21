@@ -29,7 +29,7 @@ portainer/portainer
 postgres:13
 hectorqin/reader
 wcjiang/reference
-librespeed/speedtest
+ghcr.io/librespeed/speedtest
 louislam/uptime-kuma
 containrrr/watchtower
 aceberg/watchyourlan:v2
