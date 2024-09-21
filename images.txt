@@ -16,7 +16,7 @@ amerkurev/doku
 docker.1panel.live/jlesage/firefox
 dushixiang/guacd
 homeassistant/home-assistant
-gethomepage/homepage
+ghcr.io/gethomepage/homepage
 corentinth/it-tools
 joplin/server
 gdy666/lucky
