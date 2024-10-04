@@ -38,5 +38,5 @@ mongo:4
 mcr.microsoft.com/mssql/server:2022-latest
 ghcr.io/wy580477/musicn-container
 linuxserver/wireguard
-
+yunyoujun/cook
 
