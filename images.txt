@@ -25,7 +25,7 @@ xhongc/music_tag_web
 deluan/navidrome
 dushixiang/next-terminal
 jc21/nginx-proxy-manager
-portainer/portainer
+#portainer/portainer
 postgres:13
 hectorqin/reader
 wcjiang/reference
