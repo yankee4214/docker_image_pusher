@@ -41,3 +41,4 @@ linuxserver/wireguard
 yunyoujun/cook
 adolfintel/speedtest
 cloudflare/cloudflared
+rehiy/dailyhot
