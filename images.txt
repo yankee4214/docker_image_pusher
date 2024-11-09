@@ -43,3 +43,4 @@ adolfintel/speedtest
 cloudflare/cloudflared
 rehiy/dailyhot
 aceberg/watchyourports
+ghcr.io/danvergara/morphos-server
