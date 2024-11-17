@@ -31,6 +31,7 @@ hectorqin/reader
 wcjiang/reference
 ghcr.io/librespeed/speedtest
 louislam/uptime-kuma
+louislam/uptime-kuma:1.23.15
 containrrr/watchtower
 aceberg/watchyourlan:v2
 xiaojusurvey/xiaoju-survey:1.0.4
