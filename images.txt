@@ -46,7 +46,9 @@ rehiy/dailyhot
 aceberg/watchyourports
 ghcr.io/danvergara/morphos-server
 linuxserver/transmission
-ghcr.io/immich-app/immich-server
-ghcr.io/immich-app/immich-machine-learning
-library/redis:6.2-alpine
-tensorchord/pgvecto-rs:pg14-v0.2.0
+
+#immich
+#ghcr.io/immich-app/immich-server
+#ghcr.io/immich-app/immich-machine-learning
+#library/redis:6.2-alpine
+#tensorchord/pgvecto-rs:pg14-v0.2.0
