@@ -47,6 +47,8 @@ rehiy/dailyhot
 aceberg/watchyourports
 ghcr.io/danvergara/morphos-server
 linuxserver/transmission
+hslr/sun-panel
+hslr/sun-panel:1.4.0
 
 #immich
 #ghcr.io/immich-app/immich-server
