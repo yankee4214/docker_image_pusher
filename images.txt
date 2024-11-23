@@ -50,6 +50,9 @@ linuxserver/transmission
 hslr/sun-panel
 hslr/sun-panel:1.4.0
 cooderl/wewe-rss-sqlite
+diygod/rsshub
+browserless/chrome
+redis:alpine
 
 
 #immich
