@@ -53,7 +53,8 @@ cooderl/wewe-rss-sqlite
 diygod/rsshub
 browserless/chrome
 redis:alpine
-
+henrygd/beszel-agent
+henrygd/beszel
 
 #immich
 #ghcr.io/immich-app/immich-server
