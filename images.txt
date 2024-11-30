@@ -57,6 +57,9 @@ henrygd/beszel-agent
 henrygd/beszel
 jez500/bender
 dockurr/umbrel
+revenz/fenrus
+
+
 
 #immich
 #ghcr.io/immich-app/immich-server
