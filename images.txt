@@ -58,6 +58,8 @@ henrygd/beszel
 jez500/bender
 dockurr/umbrel
 revenz/fenrus
+rustscan/rustscan
+niruix/sshwifty
 
 
 
