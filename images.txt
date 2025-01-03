@@ -32,6 +32,7 @@ gitea/gitea
 hectorqin/reader
 henrygd/beszel
 henrygd/beszel-agent
+henrywhitaker3/speedtest-tracker
 homeassistant/home-assistant
 hslr/sun-panel
 hslr/sun-panel:1.4.0
