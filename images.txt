@@ -21,6 +21,7 @@ diygod/rsshub
 docker.1panel.live/jlesage/firefox
 dockurr/umbrel
 doocs/md
+dpage/pgadmin4
 dushixiang/guacd
 dushixiang/next-terminal
 gdy666/lucky
@@ -33,6 +34,7 @@ hectorqin/reader
 henrygd/beszel
 henrygd/beszel-agent
 henrywhitaker3/speedtest-tracker
+hlohaus789/g4f
 homeassistant/home-assistant
 hslr/sun-panel
 hslr/sun-panel:1.4.0
