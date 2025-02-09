@@ -54,6 +54,7 @@ mcr.microsoft.com/mssql/server:2022-latest
 mongo:4
 mysql
 niruix/sshwifty
+ollama/ollama
 portainer/portainer
 postgres:13
 red5d/docker-autocompose
