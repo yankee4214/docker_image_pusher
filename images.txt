@@ -18,7 +18,6 @@ cooderl/wewe-rss-sqlite
 corentinth/it-tools
 deluan/navidrome
 diygod/rsshub
-docker.1panel.live/jlesage/firefox
 dockurr/umbrel
 doocs/md
 dpage/pgadmin4
@@ -41,6 +40,8 @@ hslr/sun-panel:1.4.0
 jason5ng32/myip
 jc21/nginx-proxy-manager
 jez500/bender
+#docker.1panel.live/jlesage/firefox
+jlesage/firefox
 johngong/baidunetdisk
 joplin/server
 linuxserver/transmission
