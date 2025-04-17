@@ -46,6 +46,7 @@ johngong/baidunetdisk
 joplin/server
 linuxserver/transmission
 linuxserver/wireguard
+linuxserver/calibre-web
 louislam/dockge
 louislam/uptime-kuma
 louislam/uptime-kuma:1.23.15
