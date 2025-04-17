@@ -70,7 +70,7 @@ xhofe/alist-aria2
 xhongc/music_tag_web
 xiaojusurvey/xiaoju-survey:1.0.4
 yunyoujun/cook
-
+zoeyvid/npmplus
 
 
 #immich
