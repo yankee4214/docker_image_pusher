@@ -43,8 +43,8 @@ hslr/sun-panel:1.4.0
 jason5ng32/myip
 jc21/nginx-proxy-manager
 jez500/bender
-#综合性网络质量检测工具
-jeven/smartping
+#综合性网络质量检测工具，需要自行编译
+#jeven/smartping
 #docker.1panel.live/jlesage/firefox
 jlesage/firefox
 johngong/baidunetdisk
