@@ -16,8 +16,11 @@ cloudflare/cloudflared
 containrrr/watchtower
 cooderl/wewe-rss-sqlite
 corentinth/it-tools
+#docker 2 compose容器工具
+crpi-xg6dfmt5h2etc7hg.cn-hangzhou.personal.cr.aliyuncs.com/cherry4nas/d2c
 deluan/navidrome
 diygod/rsshub
+#Umbrel操作系统
 dockurr/umbrel
 doocs/md
 dpage/pgadmin4
@@ -58,6 +61,8 @@ mcr.microsoft.com/mssql/server:2022-latest
 mongo:4
 mysql
 niruix/sshwifty
+#no-code 数据库平台
+nocodb/nocodb
 ollama/ollama
 portainer/portainer
 postgres:13
@@ -66,6 +71,9 @@ redis:alpine
 rehiy/dailyhot
 revenz/fenrus
 rustscan/rustscan
+#Team·IDE IT工具箱
+teamide/teamide-server
+#bitwarden密码库
 vaultwarden/server
 wcjiang/reference
 xhofe/alist-aria2
