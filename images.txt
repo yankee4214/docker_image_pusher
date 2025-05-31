@@ -83,7 +83,7 @@ yunyoujun/cook
 zoeyvid/npmplus
 #poste邮件服务器
 #PRO version
-poste.io/mailserver
+#poste.io/mailserver
 # (from https://poste.io docker server)
 #Free version
 analogic/poste.io
