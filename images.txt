@@ -73,6 +73,8 @@ revenz/fenrus
 rustscan/rustscan
 #Team·IDE IT工具箱
 teamide/teamide-server
+#OpenResty Manager反向代理
+uusec/openresty-manager
 #bitwarden密码库
 vaultwarden/server
 wcjiang/reference
