@@ -78,7 +78,8 @@ uusec/openresty-manager
 #bitwarden密码库
 vaultwarden/server
 wcjiang/reference
-xhofe/alist-aria2
+#2506起停用，原版被收购，疑似添加恶意代码
+#xhofe/alist-aria2
 xhongc/music_tag_web
 xiaojusurvey/xiaoju-survey:1.0.4
 yunyoujun/cook
