@@ -27,6 +27,8 @@ dpage/pgadmin4
 dushixiang/guacd
 dushixiang/next-terminal
 gdy666/lucky
+#dockports,https://github.com/coracoo/DockPorts/,容器端口监控工具
+ghcr.io/coracoo/dockports
 ghcr.io/danvergara/morphos-server
 ghcr.io/gethomepage/homepage
 ghcr.io/librespeed/speedtest
