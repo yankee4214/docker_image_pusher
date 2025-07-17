@@ -62,8 +62,9 @@ mariadb
 mcr.microsoft.com/mssql/server:2022-latest
 mongo:4
 mysql
-#routeros的docker版-第三方
-mkv28/mikrotik-routeros
+#routeros的docker版-第三方-arm版
+#mkv28/mikrotik-routeros
+mikrotik/routeros
 niruix/sshwifty
 #no-code 数据库平台
 nocodb/nocodb
