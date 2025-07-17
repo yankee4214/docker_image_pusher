@@ -1,9 +1,10 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#2506起停用，原版被收购，疑似添加恶意代码
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 
 0nlylty/dockercopilot
 0nlylty/dockercopilot:UGREEN
@@ -14,16 +15,16 @@ amerkurev/doku
 browserless/chrome
 cloudflare/cloudflared
 containrrr/watchtower
-cooderl/wewe-rss-sqlite
+#cooderl/wewe-rss-sqlite
 corentinth/it-tools
 #docker 2 compose容器工具
 crpi-xg6dfmt5h2etc7hg.cn-hangzhou.personal.cr.aliyuncs.com/cherry4nas/d2c
 deluan/navidrome
-diygod/rsshub
+#diygod/rsshub
 #Umbrel操作系统
 dockurr/umbrel
 doocs/md
-dpage/pgadmin4
+#dpage/pgadmin4
 dushixiang/guacd
 dushixiang/next-terminal
 gdy666/lucky
@@ -48,28 +49,30 @@ jez500/bender
 #综合性网络质量检测工具，需要自行编译
 #jeven/smartping
 #docker.1panel.live/jlesage/firefox
-jlesage/firefox
+#jlesage/firefox
 johngong/baidunetdisk
 joplin/server
 linuxserver/transmission
-linuxserver/wireguard
-linuxserver/calibre-web
+#linuxserver/wireguard
+#linuxserver/calibre-web
 louislam/dockge
 louislam/uptime-kuma
 louislam/uptime-kuma:1.23.15
 louislam/uptime-kuma:2.0.0-beta.0
 mariadb
-mcr.microsoft.com/mssql/server:2022-latest
+#mcr.microsoft.com/mssql/server:2022-latest
 mongo:4
 mysql
 #routeros的docker版-第三方-arm版
 #mkv28/mikrotik-routeros
-mikrotik/routeros
+#不存在，有误
+#mikrotik/routeros
 niruix/sshwifty
 #no-code 数据库平台
 nocodb/nocodb
-ollama/ollama
+#ollama/ollama
 portainer/portainer
+postgres
 postgres:13
 red5d/docker-autocompose
 redis:alpine
@@ -86,6 +89,7 @@ wcjiang/reference
 #2506起停用，原版被收购，疑似添加恶意代码
 #xhofe/alist-aria2
 xhongc/music_tag_web
+xiaojusurvey/xiaoju-survey
 xiaojusurvey/xiaoju-survey:1.0.4
 yunyoujun/cook
 zoeyvid/npmplus
