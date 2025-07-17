@@ -90,7 +90,7 @@ wcjiang/reference
 #2506起停用，原版被收购，疑似添加恶意代码
 #xhofe/alist-aria2
 xhongc/music_tag_web
-xiaojusurvey/xiaoju-survey
+#xiaojusurvey/xiaoju-survey，无此
 xiaojusurvey/xiaoju-survey:1.0.4
 yunyoujun/cook
 zoeyvid/npmplus
