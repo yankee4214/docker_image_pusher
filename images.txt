@@ -53,6 +53,8 @@ jez500/bender
 #jlesage/firefox
 johngong/baidunetdisk
 joplin/server
+#对家庭局域网记录、提示、分析、告警
+ghcr.io/jokob-sk/netalertx
 linuxserver/transmission
 #linuxserver/wireguard
 #linuxserver/calibre-web
