@@ -60,6 +60,8 @@ louislam/dockge
 louislam/uptime-kuma
 louislam/uptime-kuma:1.23.15
 louislam/uptime-kuma:2.0.0-beta.0
+#KSpeeder项目官网：https://kspeeder.istoreos.com/
+linkease/kspeeder
 mariadb
 #mcr.microsoft.com/mssql/server:2022-latest
 mongo:4
