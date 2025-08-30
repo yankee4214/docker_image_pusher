@@ -85,6 +85,10 @@ redis:alpine
 rehiy/dailyhot
 revenz/fenrus
 rustscan/rustscan
+
+#syncthing同步工具
+
+syncthing/syncthing
 #Team·IDE IT工具箱
 teamide/teamide-server
 #OpenResty Manager反向代理
