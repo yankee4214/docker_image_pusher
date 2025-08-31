@@ -56,7 +56,8 @@ joplin/server
 #对家庭局域网记录、提示、分析、告警
 ghcr.io/jokob-sk/netalertx
 linuxserver/transmission
-#linuxserver/wireguard
+#wireguard服务
+linuxserver/wireguard
 #linuxserver/calibre-web
 louislam/dockge
 louislam/uptime-kuma
