@@ -94,6 +94,8 @@ syncthing/syncthing
 teamide/teamide-server
 #OpenResty Manager反向代理
 uusec/openresty-manager
+#v2raya镜像
+mzz2017/v2raya
 #bitwarden密码库
 vaultwarden/server
 wcjiang/reference
