@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #2506起停用，原版被收购，疑似添加恶意代码
@@ -95,7 +95,9 @@ syncthing/syncthing
 #v2raya镜像
 mzz2017/v2raya
 #clash
-metacubex/clash-meta
+#metacubex/clash-meta
+dreamacro/clash
+metacubex/clash-meta-premium
 #bitwarden密码库
 vaultwarden/server
 wcjiang/reference
