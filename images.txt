@@ -97,7 +97,7 @@ mzz2017/v2raya
 #clash
 #metacubex/clash-meta
 dreamacro/clash
-metacubex/clash-meta-premium
+#metacubex/clash-meta-premium
 #bitwarden密码库
 vaultwarden/server
 wcjiang/reference
