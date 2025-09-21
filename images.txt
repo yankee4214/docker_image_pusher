@@ -88,6 +88,11 @@ postgres
 #rustscan/rustscan
 #syncthing同步工具
 syncthing/syncthing
+#frp
+snowdreamtech/frps:0.61.
+snowdreamtech/frps
+snowdreamtech/frpc:0.61.0
+snowdreamtech/frpc
 #Team·IDE IT工具箱
 #teamide/teamide-server
 #OpenResty Manager反向代理
