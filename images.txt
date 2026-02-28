@@ -17,7 +17,7 @@ amerkurev/doku
 cloudflare/cloudflared
 #containrrr/watchtower
 #cooderl/wewe-rss-sqlite
-#corentinth/it-tools
+corentinth/it-tools
 #docker 2 compose容器工具
 #crpi-xg6dfmt5h2etc7hg.cn-hangzhou.personal.cr.aliyuncs.com/cherry4nas/d2c
 deluan/navidrome
