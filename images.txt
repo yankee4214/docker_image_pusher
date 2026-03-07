@@ -84,6 +84,8 @@ nocodb/nocodb
 portainer/portainer
 postgres
 postgres:13
+registry:2
+
 #red5d/docker-autocompose
 #redis:alpine
 #rehiy/dailyhot
